@@ -1,0 +1,25 @@
+{
+    "title": "Page Title",
+    "services": [
+        {
+            "name": "Стіл дерев'яний - 1 500грн",
+            "thumb": "/angelina.nianchyr/img/3.jpg"
+        },
+        {
+            "name": "Стіл дерев'яний - 1 500грн",
+            "thumb": "/angelina.nianchyr/img/7.jpg"
+        },
+        {
+            "name": "Стіл дерев'яний - 1 500грн",
+            "thumb": "/angelina.nianchyr/img/4.jpg"
+        },
+        {
+            "name": "Стіл дерев'яний - 1 500грн",
+            "thumb": "/angelina.nianchyr/img/1.jpg"
+        },
+        {
+            "name": "Стіл дерев'яний - 1 500грн",
+            "thumb": "/angelina.nianchyr/img/2.jpg"
+        }
+    ]
+}
